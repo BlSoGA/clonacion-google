@@ -22,5 +22,5 @@ En este proyectome enfoqué en construir la clonacion de la interfaz de google. 
 ## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
 
-##4. Linnk a DEMO
+## 4. Linnk a DEMO
 Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google]
